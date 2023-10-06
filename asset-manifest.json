@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/dev-portfolio/static/css/main.a62ed247.chunk.css",
-    "main.js": "/dev-portfolio/static/js/main.43eac47f.chunk.js",
-    "main.js.map": "/dev-portfolio/static/js/main.43eac47f.chunk.js.map",
+    "main.js": "/dev-portfolio/static/js/main.e656241d.chunk.js",
+    "main.js.map": "/dev-portfolio/static/js/main.e656241d.chunk.js.map",
     "runtime-main.js": "/dev-portfolio/static/js/runtime-main.dac285d8.js",
     "runtime-main.js.map": "/dev-portfolio/static/js/runtime-main.dac285d8.js.map",
     "static/js/2.6ce16714.chunk.js": "/dev-portfolio/static/js/2.6ce16714.chunk.js",
     "static/js/2.6ce16714.chunk.js.map": "/dev-portfolio/static/js/2.6ce16714.chunk.js.map",
     "index.html": "/dev-portfolio/index.html",
-    "precache-manifest.bed49a6a9416185a90464756684f7b4a.js": "/dev-portfolio/precache-manifest.bed49a6a9416185a90464756684f7b4a.js",
+    "precache-manifest.91722f8d2cdf27d5f984188e83005692.js": "/dev-portfolio/precache-manifest.91722f8d2cdf27d5f984188e83005692.js",
     "service-worker.js": "/dev-portfolio/service-worker.js",
     "static/css/main.a62ed247.chunk.css.map": "/dev-portfolio/static/css/main.a62ed247.chunk.css.map",
     "static/js/2.6ce16714.chunk.js.LICENSE.txt": "/dev-portfolio/static/js/2.6ce16714.chunk.js.LICENSE.txt",
@@ -28,12 +28,12 @@
     "static/media/mightycoder.svg": "/dev-portfolio/static/media/mightycoder.a13311a3.svg",
     "static/media/new_year.jpg": "/dev-portfolio/static/media/new_year.82f6dd4a.jpg",
     "static/media/pin.svg": "/dev-portfolio/static/media/pin.9aa92c21.svg",
+    "static/media/piyushDutta.pdf": "/dev-portfolio/static/media/piyushDutta.5ef83eb9.pdf",
     "static/media/portfolio.JPG": "/dev-portfolio/static/media/portfolio.45b48090.JPG",
     "static/media/puzzle.svg": "/dev-portfolio/static/media/puzzle.cdfaf911.svg",
     "static/media/python.svg": "/dev-portfolio/static/media/python.e2905a88.svg",
     "static/media/react.svg": "/dev-portfolio/static/media/react.9e188349.svg",
     "static/media/repair.svg": "/dev-portfolio/static/media/repair.37257631.svg",
-    "static/media/resume.pdf": "/dev-portfolio/static/media/resume.2942bfab.pdf",
     "static/media/tie.svg": "/dev-portfolio/static/media/tie.d8c6f553.svg",
     "static/media/tweetme.PNG": "/dev-portfolio/static/media/tweetme.2185e423.PNG"
   },
@@ -41,6 +41,6 @@
     "static/js/runtime-main.dac285d8.js",
     "static/js/2.6ce16714.chunk.js",
     "static/css/main.a62ed247.chunk.css",
-    "static/js/main.43eac47f.chunk.js"
+    "static/js/main.e656241d.chunk.js"
   ]
 }

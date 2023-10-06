@@ -6,7 +6,7 @@ import github from '../assets/icons/github.svg'
 import pin from '../assets/icons/pin.svg'
 import tie from '../assets/icons/tie.svg'
 import mightycoder from '../assets/mightycoder.svg'
-import resume from '../assets/Piyush%20Dutta.pdf'
+import resume from '../assets/piyushDutta.pdf'
 import { motion } from 'framer-motion'
 
 const Sidebar = () => {
@@ -46,7 +46,7 @@ const Sidebar = () => {
         <
         div className = "sidebar__item sidebar__title" > Web Developer < /div> <
         a href = { resume }
-        download = "Piyush%20Dutta.pdf" >
+        download = "piyushDutta.pdf" >
         <
         div className = "sidebar__item sidebar__resume" >
         <

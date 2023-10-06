@@ -46,7 +46,7 @@ const Sidebar = () => {
         <
         div className = "sidebar__item sidebar__title" > Web Developer < /div> <
         a href = { resume }
-        download = "resume.pdf" >
+        download = "Piyush%20Dutta.pdf" >
         <
         div className = "sidebar__item sidebar__resume" >
         <
